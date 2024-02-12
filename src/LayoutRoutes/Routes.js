@@ -5,7 +5,7 @@ import Footer from "../components/Footer/Footer";
 import Home from "../components/Home/Home";
 import Logout from "../components/Logout/Logout";
 import ProductDetails from "../components/ProductDetails/ProductDetails";
-import NotFound from "../notfound/NotFound";
+
 
 
 function RoutesLayout() {
@@ -15,7 +15,7 @@ function RoutesLayout() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/Fashion Store" element={<Home/>}/>
+          <Route path='/Fashion Store' element={<Home/>}/>
           <Route path="/logout" element={<Logout />} />
           <Route path="/product/:id" element={<ProductDetails />} />
         </Routes>
