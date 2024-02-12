@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fashion-store/static/css/main.220798cb.css",
-    "main.js": "/Fashion-store/static/js/main.0101422d.js",
-    "static/js/787.ace9bd92.chunk.js": "/Fashion-store/static/js/787.ace9bd92.chunk.js",
-    "index.html": "/Fashion-store/index.html",
-    "main.220798cb.css.map": "/Fashion-store/static/css/main.220798cb.css.map",
-    "main.0101422d.js.map": "/Fashion-store/static/js/main.0101422d.js.map",
-    "787.ace9bd92.chunk.js.map": "/Fashion-store/static/js/787.ace9bd92.chunk.js.map"
+    "main.css": "/Fashion-Store/static/css/main.220798cb.css",
+    "main.js": "/Fashion-Store/static/js/main.5367dc04.js",
+    "static/js/787.ace9bd92.chunk.js": "/Fashion-Store/static/js/787.ace9bd92.chunk.js",
+    "index.html": "/Fashion-Store/index.html",
+    "main.220798cb.css.map": "/Fashion-Store/static/css/main.220798cb.css.map",
+    "main.5367dc04.js.map": "/Fashion-Store/static/js/main.5367dc04.js.map",
+    "787.ace9bd92.chunk.js.map": "/Fashion-Store/static/js/787.ace9bd92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.220798cb.css",
-    "static/js/main.0101422d.js"
+    "static/js/main.5367dc04.js"
   ]
 }
