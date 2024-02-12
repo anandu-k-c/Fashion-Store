@@ -7,6 +7,7 @@ import Logout from "../components/Logout/Logout";
 import ProductDetails from "../components/ProductDetails/ProductDetails";
 import NotFound from "../notfound/NotFound";
 
+
 function RoutesLayout() {
   return (
     <>
@@ -14,10 +15,9 @@ function RoutesLayout() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path='/Fashion Store' element={<Home/>}/>
+          <Route path="/Fashion Store" element={<Home/>}/>
           <Route path="/logout" element={<Logout />} />
           <Route path="/product/:id" element={<ProductDetails />} />
-          <Route path="/*" element={<NotFound/>}/>
         </Routes>
         <Footer />
       </Router>
