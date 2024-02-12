@@ -15,7 +15,7 @@ function RoutesLayout() {
         <Header />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path='/Fashion Store' element={<Home/>}/>
+          <Route path='/Fashion-Store' element={<Home/>}/>
           <Route path="/logout" element={<Logout />} />
           <Route path="/product/:id" element={<ProductDetails />} />
         </Routes>
